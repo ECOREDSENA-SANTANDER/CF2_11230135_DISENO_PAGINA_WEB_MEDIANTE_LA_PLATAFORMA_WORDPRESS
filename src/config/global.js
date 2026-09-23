@@ -160,7 +160,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/dist.pdf',
+        download: 'downloads/11230135_CF02_CFA.pdf',
       },
       {
         icono: 'fas fa-download',
@@ -252,7 +252,7 @@ export default {
         'Paquete integral de archivos y estilos CSS que determinan la apariencia visual, la paleta de colores, las tipografías y el esquema de distribución de la interfaz pública (<i>Front End</i>) en WordPress.',
     },
     {
-      termino: '<i><i>widget</i></i>',
+      termino: '<i><i>Widget</i></i>',
       significado:
         'Bloque modular preconfigurado que ejecuta una función o muestra información específica (como un buscador o enlaces de redes sociales) y que se posiciona en áreas estructurales del diseño, como el pie de página o las barras laterales.',
     },
@@ -275,7 +275,7 @@ export default {
     },
     {
       referencia:
-        'García, L. M. (2022). *Diseño de interfaces web y experiencia de usuario en entornos formativos digitales*. Editorial Síntesis.',
+        'García, L. M. (2022). *Diseño de interfaces web y experiencia de usuario en entornos formativos digitales*. Síntesis.',
       link: '',
     },
     {
@@ -291,7 +291,7 @@ export default {
         {
           nombre: 'Claudia Johanna Gómez Pérez',
           cargo:
-            'Profesional G06. Responsable del ecosistema de Recursos Educativos Digitales (RED)',
+            'Profesional G06. Responsable del ecosistema Virtual de Recursos Educativos Digitales',
           centro: 'Centro Agroturístico - Regional Santander',
         },
         {

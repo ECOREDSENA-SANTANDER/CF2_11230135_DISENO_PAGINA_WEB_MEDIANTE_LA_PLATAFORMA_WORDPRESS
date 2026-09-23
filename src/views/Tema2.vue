@@ -18,7 +18,7 @@
     #t_2_1.titulo-segundo.mb-5(data-aos="zoom-in-left")
       h2 2.1. Fundamentación técnica de los #[em plugins]
 
-    p Desde una definición técnica rigurosa, un #[em plugin] es un paquete de software adicional compuesto por código en lenguaje PHP, hojas de estilo (CSS) y scripts en JavaScript, que se integra al núcleo de WordPress para añadir nuevas funcionalidades o modificar el comportamiento de las existentes. Estos componentes operan bajo un principio de no interferencia, lo que permite ampliar las capacidades del sistema sin alterar directamente los archivos originales del CMS. De este modo, cuando WordPress recibe actualizaciones, las funcionalidades implementadas mediante #[em plugins] se mantienen estables y operativas.
+    p Desde una definición técnica rigurosa, un #[em plugin] es un paquete de #[em software] adicional compuesto por código en lenguaje PHP, hojas de estilo (CSS) y scripts en JavaScript, que se integra al núcleo de WordPress para añadir nuevas funcionalidades o modificar el comportamiento de las existentes. Estos componentes operan bajo un principio de no interferencia, lo que permite ampliar las capacidades del sistema sin alterar directamente los archivos originales del CMS. De este modo, cuando WordPress recibe actualizaciones, las funcionalidades implementadas mediante #[em plugins] se mantienen estables y operativas.
     .row.justify-content-center.align-items-center.mb-3(data-aos="zoom-in-left")
       .col-lg-7
         .row 
@@ -51,7 +51,7 @@
     p La gestión de estos módulos se centraliza en el submenú #[em “plugins”], ubicado dentro del panel de administración de WordPress. Es importante tener en cuenta que esta capacidad de expansión técnica es una característica propia de la versión autoalojada (WordPress.org); en contraste, la versión comercial en sus planes básicos (WordPress.com) presenta restricciones para la instalación de #[em plugins] externos, limitando las posibilidades de personalización del sitio web.
     .row.justify-content-center.align-items-center.mb-3(data-aos="zoom-in-left")
       .col-lg-8
-        p El proceso para incorporar nuevas herramientas a la plataforma contempla tres metodologías principales, cuya elección depende del origen del software y de las condiciones técnicas del servidor:
+        p El proceso para incorporar nuevas herramientas a la plataforma contempla tres metodologías principales, cuya elección depende del origen del #[em software] y de las condiciones técnicas del servidor:
         AcordionA(tipo="b" clase-tarjeta="tarjeta tarjeta--azul")
           .row(titulo="Instalación desde el repositorio oficial")
             .col-md-12.mb-4.mb-md-0

@@ -8,7 +8,7 @@
           i.fas.fa-info
       h1 Introducción
     
-    p(data-aos="zoom-in-left") La consolidación de un proyecto digital no concluye con la instalación del software ni con la estructuración inicial de su arquitectura de la información. Por el contrario, es en la fase de administración, diseño visual y despliegue técnico donde el sitio web adquiere su verdadera dimensión funcional y estética. En este contexto, el presente documento académico aborda las fases operativas y estratégicas del diseño de páginas web mediante la plataforma WordPress, proporcionando al aprendiz las competencias necesarias para transformar una estructura básica en una plataforma dinámica, interactiva y orientada al público objetivo.
+    p(data-aos="zoom-in-left") La consolidación de un proyecto digital no concluye con la instalación del #[em software] ni con la estructuración inicial de su arquitectura de la información. Por el contrario, es en la fase de administración, diseño visual y despliegue técnico donde el sitio web adquiere su verdadera dimensión funcional y estética. En este contexto, el presente documento académico aborda las fases operativas y estratégicas del diseño de páginas web mediante la plataforma WordPress, proporcionando al aprendiz las competencias necesarias para transformar una estructura básica en una plataforma dinámica, interactiva y orientada al público objetivo.
 
     .row.justify-content-center.align-items-center.mb-3(data-aos="zoom-in-left")
       .col-lg-5.col-md-9.mb-3.d-none.d-lg-block
