@@ -48,7 +48,7 @@
     #t_2_2.titulo-segundo.mb-5(data-aos="zoom-in-left")
       h2 2.2. Procedimientos de instalación y activación
 
-    p La gestión de estos módulos se centraliza en el submenú #[em “plugins”], ubicado dentro del panel de administración de WordPress. Es importante tener en cuenta que esta capacidad de expansión técnica es una característica propia de la versión autoalojada (WordPress.org); en contraste, la versión comercial en sus planes básicos (WordPress.com) presenta restricciones para la instalación de #[em plugins] externos, limitando las posibilidades de personalización del sitio web.
+    p La gestión de estos módulos se centraliza en el submenú #[em “Plugins”], ubicado dentro del panel de administración de WordPress. Es importante tener en cuenta que esta capacidad de expansión técnica es una característica propia de la versión autoalojada (WordPress.org); en contraste, la versión comercial en sus planes básicos (WordPress.com) presenta restricciones para la instalación de #[em plugins] externos, limitando las posibilidades de personalización del sitio web.
     .row.justify-content-center.align-items-center.mb-3(data-aos="zoom-in-left")
       .col-lg-8
         p El proceso para incorporar nuevas herramientas a la plataforma contempla tres metodologías principales, cuya elección depende del origen del #[em software] y de las condiciones técnicas del servidor:
@@ -81,7 +81,7 @@
             .col-lg-2.col-4.col-md-3
               img(src='@/assets/curso/Tema2/img08.svg', alt='').mb-4
             .col-lg-12
-              p La facilidad con la que se pueden añadir funcionalidades en WordPress constituye uno de los riesgos arquitectónicos más relevantes en el desarrollo web contemporáneo: la sobreinstalación de #[em plugins], también conocida como “síndrome de diógenes digital”. Cada módulo añadido incrementa las peticiones a la base de datos, incorpora más código al sistema y, en consecuencia, puede aumentar los tiempos de respuesta del servidor. Un sitio saturado de #[em plugins] innecesarios afecta negativamente la experiencia del usuario y eleva la vulnerabilidad frente a posibles ataques, alejándose del objetivo de una administración eficiente del sitio web.
+              p La facilidad con la que se pueden añadir funcionalidades en WordPress constituye uno de los riesgos arquitectónicos más relevantes en el desarrollo web contemporáneo: la sobreinstalación de #[em plugins], también conocida como “síndrome de Diógenes digital”. Cada módulo añadido incrementa las peticiones a la base de datos, incorpora más código al sistema y, en consecuencia, puede aumentar los tiempos de respuesta del servidor. Un sitio saturado de #[em plugins] innecesarios afecta negativamente la experiencia del usuario y eleva la vulnerabilidad frente a posibles ataques, alejándose del objetivo de una administración eficiente del sitio web.
         .col-lg-5.d-none.d-lg-block
           img.der(src='@/assets/curso/Tema2/img07.png', alt='')
 

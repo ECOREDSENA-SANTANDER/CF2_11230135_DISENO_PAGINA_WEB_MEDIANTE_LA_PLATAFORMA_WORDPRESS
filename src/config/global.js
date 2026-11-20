@@ -1,8 +1,8 @@
 export default {
   global: {
-    Name: 'Administración y publicación del proyecto web',
+    Name: 'Administración y publicación de tu proyecto web',
     Description:
-      'El componente Administración y publicación de proyectos web desarrolla competencias técnicas y operativas orientadas a la gestión de contenidos, el diseño de la experiencia visual y el despliegue de sitios web mediante la plataforma WordPress. Asimismo, promueve el uso eficiente de herramientas de publicación dinámica, la ampliación de funcionalidades a través de <i>plugins</i> y la aplicación rigurosa de protocolos de seguridad, respaldo y migración. De este modo, permite transformar una estructura básica en un ecosistema digital interactivo, publicado exitosamente en la nube.',
+      'El componente Administración y publicación de tu proyecto web desarrolla competencias técnicas y operativas orientadas a la gestión de contenidos, el diseño de la experiencia visual y el despliegue de sitios web mediante la plataforma WordPress. Asimismo, promueve el uso eficiente de herramientas de publicación dinámica, la ampliación de funcionalidades a través de <i>plugins</i> y la aplicación rigurosa de protocolos de seguridad, respaldo y migración. De este modo, permite transformar una estructura básica en un ecosistema digital interactivo, publicado exitosamente en la nube.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [

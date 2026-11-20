@@ -58,7 +58,7 @@
       h2 4.2. Procesos de exportación e importación de datos
 
     p En determinados escenarios, no es necesario trasladar la totalidad del sitio web, sino únicamente su contenido. Por ejemplo, puede requerirse migrar entradas, páginas o usuarios hacia un nuevo entorno sin replicar configuraciones anteriores.
-    p WordPress incorpora herramientas nativas que facilitan este proceso desde el submenú “herramientas”:
+    p WordPress incorpora herramientas nativas que facilitan este proceso desde el submenú “Herramientas”:
 
     .row.justify-content-center.align-items-center.mb-0(data-aos="zoom-in-left")
       .col-lg-10
@@ -79,7 +79,7 @@
             h3.text-center Importar
             p Permite cargar este archivo en otro sitio WordPress, reconstruyendo la estructura del contenido de manera automatizada.
           
-    p Este proceso facilita la migración de información sin necesidad de realizar tareas manuales complejas, optimizando tiempos de trabajo. La exportación e importación permite realizar copias parciales del sitio con fines de respaldo o reorganización de contenidos.
+    p Este proceso facilita la migración de información sin necesidad de realizar tareas manuales complejas, optimizando tiempos de trabajo. La exportación e importación permiten realizar copias parciales del sitio con fines de respaldo o reorganización de contenidos.
 
     .row.justify-content-center.align-items-center.mb-3.bg001.p-4(data-aos="zoom-in-left")
       .col-lg-1.mb-3.col-4.col-md-3

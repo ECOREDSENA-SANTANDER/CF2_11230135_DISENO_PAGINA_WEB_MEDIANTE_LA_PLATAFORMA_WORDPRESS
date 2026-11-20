@@ -121,22 +121,33 @@ figcaption
 .tarjeta.color-acento-botones--borde
   background-color: #E2EFFC
   border: #E2EFFC
-.tabs-a__tab 
-   background-color: #F5A3BC !important
-.tabs-a__tab   
+.tabs-a__tab
+  background-color: #F5A3BC !important
   display: block
   width: 100%
   text-align: left
   padding: 15px 20px
   border-radius: 5px
   line-height: 1.2em
+
   &__text
     overflow: hidden
-    text-overflow: ellipsis 
-    white-space: normal 
-.tabs-a.color-acento-botones .tabs-a__tab__selected 
+    text-overflow: ellipsis
+    white-space: normal
+
+  &:not(.tabs-a__tab__selected):hover
+    color: #12345A !important
+
+    .tabs-a__tab__text
+      color: #12345A !important
+
+.tabs-a.color-acento-botones .tabs-a__tab__selected
   background-color: #A60D29 !important
-  color: #fff
+  color: #FFFFFF !important
+
+  .tabs-a__tab__text
+    color: #FFFFFF !important
+  
 .izq
   margin-left: -0.7rem
 .der

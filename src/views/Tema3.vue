@@ -81,7 +81,7 @@
     #t_3_2.titulo-segundo.mb-5(data-aos="zoom-in-left")
       h2 3.2. Personalización avanzada de la interfaz
 
-    p La activación de un tema proporciona una base visual inicial, pero requiere ajustes para adaptarse a la identidad del proyecto. WordPress incorpora una herramienta denominada “personalizador”, accesible desde el menú de apariencia, que permite modificar diversos elementos del diseño mediante una vista previa en tiempo real.
+    p La activación de un tema proporciona una base visual inicial, pero requiere ajustes para adaptarse a la identidad del proyecto. WordPress incorpora una herramienta denominada “Personalizador”, accesible desde el menú de apariencia, que permite modificar diversos elementos del diseño mediante una vista previa en tiempo real.
 
     .row.justify-content-center.align-items-center.mb-5.bg001.p-4(data-aos="zoom-in-left")
       .col-lg-1.mb-3.col-4.col-md-3
@@ -117,7 +117,7 @@
       .col-lg-1.col-4.col-md-3.mb-3
         img(src='@/assets/curso/Tema3/img06.svg', alt='')
       .col-lg-11
-        p Para comprender la diagramación periférica del sitio, es necesario estudiar los #[em Widgets]. Un #[em widget] es un bloque modular de código preconfigurado que ejecuta una funcionalidad específica o muestra un contenido determinado (por ejemplo, una barra de búsqueda, una lista de las entradas más recientes, un calendario o un bloque de texto libre).
+        p Para comprender la diagramación periférica del sitio, es necesario estudiar los #[em widgets]. Un #[em widget] es un bloque modular de código preconfigurado que ejecuta una funcionalidad específica o muestra un contenido determinado (por ejemplo, una barra de búsqueda, una lista de las entradas más recientes, un calendario o un bloque de texto libre).
 
     .row.justify-content-center.align-items-center.mb-4(data-aos="zoom-in-left")
       .col-lg-5
