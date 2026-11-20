@@ -86,7 +86,7 @@
         img(src='@/assets/curso/Tema4/img04.svg', alt='')
       .col-lg-10
         p Estas herramientas son útiles en entornos de prueba, donde se requiere replicar información para realizar ajustes sin afectar el sitio original. Es importante verificar que los recursos multimedia asociados al contenido sean correctamente transferidos, ya que en algunos casos requieren descarga adicional desde el servidor de origen.
-    p holaaaa
+    
     p Estos procesos permiten una gestión flexible de la información, facilitando la migración, reorganización y reutilización de contenidos dentro de distintos entornos digitales.
     
     .titulo-sexto.color-acento-contenido(data-aos='fade-right')
